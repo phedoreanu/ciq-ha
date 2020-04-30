@@ -1,0 +1,22 @@
+{
+  "name": "Garmin Bluetooth",
+  "version": "0.0.2",
+  "slug": "ciq-ha",
+  "description": "ConnectIQ BluetoothLE Server for Home Assistant",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "url": "https://github.com/phedoreanu/ciq-ha",
+  "startup": "application",
+  "boot": "auto",
+  "host_network": true,
+  "host_dbus": true,
+  "options": {
+    "name": "HomeAssistant",
+    "uuid": "0F3DF50F-09C0-40A5-8208-9836C6040B",
+    "log": true
+  },
+  "schema": {
+    "name": "str?",
+    "uuid": "str?",
+    "log": "bool?"
+  }
+}

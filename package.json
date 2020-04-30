@@ -1,0 +1,15 @@
+{
+  "name": "ciq-ha",
+  "version": "1.0.0",
+  "main": "ciq-base.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phedoreanu",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@abandonware/bleno": "^0.5.1-2",
+    "@abandonware/bluetooth-hci-socket": "^0.5.3-5"
+  }
+}

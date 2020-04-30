@@ -1,6 +1,6 @@
 {
   "name": "Garmin Bluetooth",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "slug": "ciq-ha",
   "description": "ConnectIQ BluetoothLE Server for Home Assistant",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],

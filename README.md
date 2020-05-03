@@ -16,6 +16,12 @@
 * [Garmin API Docs](https://developer.garmin.com/connect-iq/api-docs/)
 * [Adding Bluetooth Connectivity to your Connect IQ Projects](https://www.youtube.com/watch?v=drZ_pzGwo7I)
 
+## Nordic Semiconductor
+* [nRF5 SDK Getting Started](https://www.nordicsemi.com/Software-and-tools/Software/nRF5-SDK/GetStarted)
+* [nRF Connect SDK Docs](https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/gs_installing.html)
+* [nRF Tools](https://infocenter.nordicsemi.com/topic/struct_nrftools/struct/nrftools.html)
+* [Zephyr Supported Boards](https://docs.zephyrproject.org/latest/boards/index.html)
+
 ## Dependencies
 * [abandonware/bleno](https://github.com/abandonware/bleno)
 * [abandonware/bluetooth-hci-socket](https://github.com/abandonware/node-bluetooth-hci-socket)
